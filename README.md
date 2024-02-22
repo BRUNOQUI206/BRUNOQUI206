@@ -1,6 +1,6 @@
 ## 👋 | Olá sou Bruno Guilherme dos Santos, programador Web Full-Stack
 
-<div>
+<div style="display: inline_block">
   <a href="https://github.com/BRUNOQUI206">
   <img height="180em" src="https://readme-stats-git-main-gabrielvitorgls-projects.vercel.app/api?username=BRUNOQUI206&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://readme-stats-git-main-gabrielvitorgls-projects.vercel.app/api/top-langs/?username=BRUNOQUI206&layout=compact&langs_count=7&theme=github_dark&include_all_commits=true&count_private=true"/>
