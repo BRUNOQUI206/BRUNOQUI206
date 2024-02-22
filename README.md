@@ -1,7 +1,10 @@
 ## 👋 | Olá sou Bruno Guilherme dos Santos, programador Web Full-Stack
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BRUNOQUI206&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BRUNOQUI206&layout=compact)
+<div>
+  <a href="https://github.com/BRUNOQUI206">
+  <img height="180em" src="https://readme-stats-git-main-gabrielvitorgls-projects.vercel.app/api?username=BRUNOQUI206&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://readme-stats-git-main-gabrielvitorgls-projects.vercel.app/api/top-langs/?username=BRUNOQUI206&layout=compact&langs_count=7&theme=github_dark&include_all_commits=true&count_private=true"/>
+</div>
 
 ## 💻 | CODINGS
 <div style="display: inline_block">
@@ -20,3 +23,18 @@
 <div style="display: inline_block">
   <a href="www.linkedin.com/in/brunogs-developer-full-stack" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/GabrielVitorGL/GabrielVitorGL/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/GabrielVitorGL/GabrielVitorGL/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/GabrielVitorGL/GabrielVitorGL/output/github-contribution-grid-snake.svg"
+  />
+</picture>
