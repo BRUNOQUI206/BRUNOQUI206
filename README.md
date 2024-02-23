@@ -26,12 +26,3 @@
 </div>
 
 ![Snake animation](https://github.com/gui-hr/gui-hr/blob/output/github-contribution-grid-snake.svg)
-
-<style>
-  @media (max-width: 375px) {
-    div .fox {
-      height: 100px;
-      width: 100px;
-    }
-  }
-</style>
