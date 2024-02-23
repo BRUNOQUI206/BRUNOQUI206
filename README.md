@@ -2,8 +2,8 @@
 
 <div style="display: inline_block">
   <a href="https://github.com/BRUNOQUI206">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=BRUNOQUI206&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BRUNOQUI206&layout=compact&langs_count=6&theme=github_dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=BRUNOQUI206&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BRUNOQUI206&layout=compact&langs_count=6&theme=github_dark"/>
 </div>
 
 ## 💻 | CODINGS
