@@ -17,7 +17,7 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-  <img align="right" alt="GIF" height="200" width="200" src="fox.gif">
+  <img class="fox" align="right" alt="GIF" height="200" width="200" src="fox.gif">
 </div>
 
 ## 🌐 | SOCIAL
@@ -26,3 +26,9 @@
 </div>
 
 ![Snake animation](https://github.com/gui-hr/gui-hr/blob/output/github-contribution-grid-snake.svg)
+
+@media(max-width: 375px) {
+    div .fox{
+    height="100" width="100"
+  }
+}
