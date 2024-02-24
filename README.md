@@ -9,7 +9,6 @@
 </div>
     
 <img align="right" height="300" src="fox.gif"/>
-<br>
 
 # 💻 Tech Stack:
 ### Backend
@@ -37,7 +36,6 @@
 </div>
 
 ##
-
 
 # 🌐 Contact me:
 <div style="display: inline_block">
