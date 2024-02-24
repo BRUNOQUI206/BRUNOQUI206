@@ -2,8 +2,6 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+Japanese&size=45&pause=900&color=2E9AFE&center=true&width=1000%&height=70&lines=Hello%2C+World!+I'm+Bruno Guilherme!"/></a>
 </div>
 
-##
-
 <div style="display: inline_block" align="center">
   <a href="https://github.com/BRUNOQUI206">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BRUNOQUI206&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
@@ -40,7 +38,7 @@
 ##
 
 
-# 🌐 | SOCIAL
+# 🌐 Contact me:
 <div style="display: inline_block">
   <a href="http://www.linkedin.com/in/brunogs-developer-full-stack" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
@@ -49,6 +47,7 @@
   
 ![Snake animation](https://github.com/gui-hr/gui-hr/blob/output/github-contribution-grid-snake.svg)
 </div>
+
 <div style="display: inline_block" align="center">
-  <img height="30" alt="Rafa-Github" src="https://img.shields.io/github/followers/BRUNOQUI206.svg?style=social&label=Follow&maxAge=2592000">
+  <img align="center" height="30" alt="Rafa-Github" src="https://img.shields.io/github/followers/BRUNOQUI206.svg?style=social&label=Follow&maxAge=2592000">
 </div>
