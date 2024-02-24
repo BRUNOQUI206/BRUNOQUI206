@@ -9,6 +9,7 @@
 </div>
     
 <img align="right" height="300" src="fox.gif"/>
+<br>
 
 # 💻 Tech Stack:
 ### Backend
