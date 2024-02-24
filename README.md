@@ -49,5 +49,5 @@
 </div>
 
 <div style="display: inline_block" align="center">
-  <img align="center" height="30" alt="Rafa-Github" src="https://img.shields.io/github/followers/BRUNOQUI206.svg?style=social&label=Follow&maxAge=2592000">
+  <a href="#" target="_blank"><img align="center" height="30" alt="Rafa-Github" src="https://img.shields.io/github/followers/BRUNOQUI206.svg?style=social&label=Follow&maxAge=2592000"></a> 
 </div>
