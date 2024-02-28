@@ -1,5 +1,5 @@
 # Nome da Actions:  
-name: Snake Game
+name: Snake
 
 # Controlador do tempo que sera feito a atualização dos arquivos.
 on:
