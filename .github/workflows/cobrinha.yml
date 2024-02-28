@@ -2,7 +2,7 @@ name: Generate Datas
 
 on:
   schedule:
-    - cron: "0 0 * * *" # execute todos os dias à meia-noite (UTC)
+    - cron: "0 */24 * * *" 
   workflow_dispatch:
 
 jobs:
