@@ -5,7 +5,7 @@ name: Snake
 on:
   schedule:
       # Será atualizado a cada 5 horas.
-    - cron: "* * * * *"
+    - cron: "0 */24 * * *"
 
 # Permite executar na na lista de Actions (utilizado para testes de build).
   workflow_dispatch:
