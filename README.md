@@ -44,7 +44,7 @@
 
 <div style="display: inline_block" align="center">
   
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/BRUNOQUI206/BRUNOQUI206/blob/output/github-contribution-grid-snake.gif)
 </div>
 
 <div style="display: inline_block" align="center">
