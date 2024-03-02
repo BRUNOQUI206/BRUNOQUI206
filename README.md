@@ -47,6 +47,6 @@
 ![snake gif](https://github.com/BRUNOQUI206/BRUNOQUI206/blob/output/github-contribution-grid-snake-dark.svg)
 </div>
 
-<div style="display: inline_block" align="center">
-  <a href="#" target="_blank"><img align="center" height="30" alt="BRUNOQUI206-Github" src="https://img.shields.io/github/followers/BRUNOQUI206?style=social&label=Follow&maxAge=2592000"></a> 
-</div>
+<!--<div style="display: inline_block" align="center">
+   <a href="#" target="_blank"><img align="center" height="30" alt="BRUNOQUI206-Github" src="https://img.shields.io/github/followers/BRUNOQUI206?style=social&label=Follow&maxAge=2592000"></a>
+</div>-->
