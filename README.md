@@ -1,6 +1,8 @@
 <div style="display: inline_block" align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+Japanese&size=45&pause=900&color=2E9AFE&center=true&width=1000%&height=70&lines=Hello%2C+World!+I'm+Bruno Guilherme!"/></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Micro+5&size=100&duration=3500&pause=900&center=true&vCenter=true&random=false&width=900&height=70&lines=Hello+World!;I'm+Bruno+Guilherme;Developer+Full+Stack" alt="Typing SVG" /></a>
 </div>
+
+###
 
 <div style="display: inline_block" align="center">
   <a href="https://github.com/BRUNOQUI206">
