@@ -10,7 +10,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BRUNOQUI206&layout=compact&langs_count=6&theme=github_dark"/>
 </div>
     
-<img align="right" height="300" src="fox.gif"/>
+<img align="right" height="400" src="fox.gif"/>
 
 # 💻 Tech Stack:
 ### Backend
