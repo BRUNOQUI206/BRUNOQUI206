@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008ae6&height=120&section=header"/>
+
 <div style="display: inline_block" align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Micro+5&size=100&duration=3500&pause=900&center=true&vCenter=true&random=false&width=900&height=70&lines=Hello+World!;I'm+Bruno+Guilherme;Developer+Full+Stack" alt="Typing SVG" /></a>
 </div>
@@ -35,18 +37,37 @@
   
 </div>
 
-##
+<div style="display: inline_block" align="center">
+  
+# Contact me:
 
-# 🌐 Contact me:
-<div style="display: inline_block">
   <a href="http://www.linkedin.com/in/brunogs-developer-full-stack" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
 
+##
+
 <div style="display: inline_block" align="center">
   
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BRUNOQUI206&bg_color=0a0c0f&color=008ae6&line=008ae6&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</div>
+
+##
+
+<div style="display: inline_block" align="center">
+  
+### <b>Visitors Count</b>
+  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/(BRUNOQUI206)/count.svg" /></p>
+  
 ![snake gif](https://github.com/BRUNOQUI206/BRUNOQUI206/blob/output/github-contribution-grid-snake-dark.svg)
+</div>
+
+<div align="center">
+
 </div>
 
 <!--<div style="display: inline_block" align="center">
    <a href="#" target="_blank"><img align="center" height="30" alt="BRUNOQUI206-Github" src="https://img.shields.io/github/followers/BRUNOQUI206?style=social&label=Follow&maxAge=2592000"></a>
 </div>-->
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008ae6&height=120&section=footer"/>
