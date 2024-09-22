@@ -71,7 +71,7 @@
 ### <b>Visitors Count</b>
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/(BRUNOQUI206)/count.svg" /></p>
 
-![snake gif](https://github.com/BRUNOQUI206/BRUNOQUI206/blob/output/github-contribution-grid-snake-dark.svg)
+<!--![snake gif](https://github.com/BRUNOQUI206/BRUNOQUI206/blob/output/github-contribution-grid-snake-dark.svg)-->
 </div>
 <div align="center">
 
