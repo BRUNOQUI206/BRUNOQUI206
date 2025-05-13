@@ -8,7 +8,7 @@
 
 </div>
 
-<img align="right" height="250" src="fox.gif" alt="Fox Animation" /> 
+<img align="right" height="200" src="fox.gif" alt="Fox Animation" /> 
 
 ## 👨‍💻 About Me
 
