@@ -1,7 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=008ae6&height=120&section=header"/>
 
-![3D GitHub Profile](./profile-3d-contrib/profile-night-view.svg)
-
 <div style="display: inline_block" align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Micro+5&size=100&duration=3500&pause=900&center=true&vCenter=true&random=false&width=900&height=70&lines=Hello+World!;I'm+BRUNOQUI206;Developer+Full-Stack" alt="Typing SVG" />
