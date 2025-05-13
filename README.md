@@ -8,9 +8,10 @@
 
 </div>
 
+<img align="right" height="250" src="fox.gif" alt="Fox Animation" /> 
+
 ## 👨‍💻 About Me
 
-<img align="right" height="200" src="fox.gif" alt="Fox Animation" />
 
 I'm **Bruno Guilherme**, a Full Stack Developer passionate about creating modern, scalable, and high-performance web applications with clean code and great user experience.
 
@@ -27,16 +28,12 @@ I'm **Bruno Guilherme**, a Full Stack Developer passionate about creating modern
 
 ---
 
-## 📈 GitHub Stats
-
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BRUNOQUI206&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BRUNOQUI206&layout=compact&langs_count=6&theme=github_dark"/>
 </div>
 
 ---
-
-## 🔥 Recent Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BRUNOQUI206&bg_color=0a0c0f&color=008ae6&line=008ae6&point=ffffff&area=true&hide_border=true" />
@@ -50,9 +47,6 @@ I'm **Bruno Guilherme**, a Full Stack Developer passionate about creating modern
   <a href="https://www.linkedin.com/in/brunoguilhermedev" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://brunoguilherme.dev" target="_blank">
-    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
-  </a
 </div>
 
 ---
