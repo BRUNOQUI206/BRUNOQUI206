@@ -10,7 +10,7 @@
 
 ---
 <div align="center">
-  <img height="200" src="fox.gif" alt="Fox Animation" /> 
+  <img height="100%" src="fox.gif" alt="Fox Animation" /> 
 </div>
 
 ## 💻 Tech Stack
