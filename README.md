@@ -8,16 +8,6 @@
 
 </div>
 
-<img align="right" height="200" src="fox.gif" alt="Fox Animation" /> 
-
-## 👨‍💻 About Me
-
-
-I'm **Bruno Guilherme**, a Full Stack Developer passionate about creating modern, scalable, and high-performance web applications with clean code and great user experience.
-
-🌐 [brunoguilherme.dev](https://brunoguilherme.dev)  
-💼 [linkedin.com/in/brunoguilhermedev](https://www.linkedin.com/in/brunoguilhermedev)
-
 ---
 
 ## 💻 Tech Stack
@@ -31,6 +21,7 @@ I'm **Bruno Guilherme**, a Full Stack Developer passionate about creating modern
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BRUNOQUI206&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BRUNOQUI206&layout=compact&langs_count=6&theme=github_dark"/>
+  <img align="right" height="200" src="fox.gif" alt="Fox Animation" /> 
 </div>
 
 ---
