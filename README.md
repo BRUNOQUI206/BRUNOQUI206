@@ -3,7 +3,6 @@
 <p align="center">
   <img height="80" align="left" src="fox.gif" alt="Fox Animation" />
   <img src="https://readme-typing-svg.demolab.com?font=Micro+5&size=100&duration=3500&pause=900&center=true&vCenter=true&random=false&width=700&height=70&lines=Hello+World!;I'm+BRUNOQUI206;Full+Stack+Developer" alt="Typing SVG" />
-  <img height="80" align="right" src="fox.gif" alt="Fox Animation" />
 </p>
 
 ---
